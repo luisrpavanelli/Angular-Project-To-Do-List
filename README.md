@@ -1,7 +1,7 @@
 # Angular-Project-To-Do-List
  This repository houses an exciting Angular-based Todo List project that empowers users to efficiently manage their tasks and stay organized. Developed using the Angular framework, this project provides a robust and intuitive user interface, allowing users to create, edit, prioritize, and track their todos effortlessly.
 
- ![To-Do List](./images/test.png)
+[![Angular To-Do List vídeo](./images/test.png)](https://www.youtube.com/watch?v=x-lQa10BMfw)
 
 # Project Description
 AngularTodo is a powerful to-do list management application built with Angular. It offers a seamless and intuitive user interface for efficiently managing your tasks. This README provides essential information to get started with the project.
